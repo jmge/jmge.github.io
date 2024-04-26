@@ -1,5 +1,5 @@
-#theme: jekyll-theme-chirpy
-theme: jekyll-rtd-theme
+#theme: jekyll-theme-cayman
+remote_theme: rundocs/jekyll-rtd-theme
 title: Welcome!
 
 lsi: false
@@ -12,3 +12,9 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+  
