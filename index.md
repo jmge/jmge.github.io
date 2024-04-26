@@ -1,1 +1,2 @@
-# Welcome to jmge's homepage
+# Welcome to the Blog
+
